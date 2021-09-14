@@ -11,6 +11,7 @@
 		6632099926F0CFAF0091EB29 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6632099826F0CFAF0091EB29 /* ContentView.swift */; };
 		6632099B26F0CFB10091EB29 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6632099A26F0CFB10091EB29 /* Assets.xcassets */; };
 		6632099E26F0CFB10091EB29 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6632099D26F0CFB10091EB29 /* Preview Assets.xcassets */; };
+		663209A626F0D84A0091EB29 /* TitleImg.swift in Sources */ = {isa = PBXBuildFile; fileRef = 663209A526F0D84A0091EB29 /* TitleImg.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		6632099A26F0CFB10091EB29 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6632099D26F0CFB10091EB29 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6632099F26F0CFB10091EB29 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		663209A526F0D84A0091EB29 /* TitleImg.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleImg.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				6632099626F0CFAF0091EB29 /* Classic04App.swift */,
 				6632099826F0CFAF0091EB29 /* ContentView.swift */,
+				663209A526F0D84A0091EB29 /* TitleImg.swift */,
 				6632099A26F0CFB10091EB29 /* Assets.xcassets */,
 				6632099F26F0CFB10091EB29 /* Info.plist */,
 				6632099C26F0CFB10091EB29 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				663209A626F0D84A0091EB29 /* TitleImg.swift in Sources */,
 				6632099926F0CFAF0091EB29 /* ContentView.swift in Sources */,
 				6632099726F0CFAF0091EB29 /* Classic04App.swift in Sources */,
 			);
